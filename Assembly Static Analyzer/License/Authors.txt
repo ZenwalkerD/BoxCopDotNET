@@ -1,1 +1,6 @@
 ﻿Shailesh kumar S <zenwalker1985@gmail.com>
+﻿
+﻿References: Credit goes to respective owners too.
+﻿http://www.codeproject.com/KB/cs/sdilreader.aspx
+
+http://sorin.serbans.net/blog/index.php/2010/08/10/how-to-read-pdb-files/
