@@ -4,3 +4,5 @@ The tool reports all the usage of the Boxing operation in the assemblies along w
 At times, the boxing operation could become a headache in improving performance of an application. Hence this tool could become handy in such a scenario.
 
 This project was concieved as a hobby. Hence a great deal of improvement could be carried over it.
+
+For detailed technical information, please read: https://adventurouszen.wordpress.com/2011/11/24/boxcop-static-assembly-analyzer-tool/
